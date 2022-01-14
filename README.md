@@ -7,9 +7,9 @@ you guys can add move to this if you guys want
 3 hardware that can be made into a handheld(raspberry pi)do count
 those are the only rules
 # list
-gamebuino - https://gamebuino.com/
-nibble - https://docs.nibble.world/docs/en/intro/ (fantasy console and handheld)
-playdate - https://play.date/
-pocketchip - https://shop.pocketchip.co/ (has pico-8)
-smilebasic/petit computer - http://smilebasic.com/en/ (link is for 3ds and switch but it did have a dsi version that was delisted)
+gamebuino - https://gamebuino.com/  
+nibble - https://docs.nibble.world/docs/en/intro/ (fantasy console and handheld)  
+playdate - https://play.date/  
+pocketchip - https://shop.pocketchip.co/ (has pico-8)  
+smilebasic/petit computer - http://smilebasic.com/en/ (link is for 3ds and switch but it did have a dsi version that was delisted)  
 thx cypher
