@@ -4,7 +4,7 @@ you guys can add move to this if you guys want
 3 rules  
 1:handheld that does have fantasy console support like chip-8 counts  
 2:hardware doesent count unless it is a handheld  
-3 hardware that can be made into a handheld(raspberry pi)do count  
+3 hardware that can be made into a handheld(raspberry pi)do count but it has to be a specific handheld (so raspberry pi by itself does not count)
 those are the only rules  
 # list
 gamebuino - https://gamebuino.com/  
